@@ -1,0 +1,13 @@
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\bin\Debug\Bootstrapper.SampleApp.exe.config
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\bin\Debug\Bootstrapper.SampleApp.exe
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\bin\Debug\Bootstrapper.SampleApp.pdb
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\Bootstrapper.SampleApp.csprojResolveAssemblyReference.cache
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\MainWindow.baml
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\MainWindow.g.cs
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\App.g.cs
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\Bootstrapper.SampleApp_MarkupCompile.cache
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\Bootstrapper.SampleApp.g.resources
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\Bootstrapper.SampleApp.Properties.Resources.resources
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\Bootstrapper.SampleApp.csproj.GenerateResource.Cache
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\Bootstrapper.SampleApp.exe
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper.SampleApp\obj\Debug\Bootstrapper.SampleApp.pdb

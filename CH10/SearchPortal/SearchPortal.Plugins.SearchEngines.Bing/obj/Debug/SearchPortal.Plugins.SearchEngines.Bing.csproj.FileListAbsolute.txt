@@ -1,0 +1,11 @@
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\obj\Debug\SearchPortal.Plugins.SearchEngines.Bing.csprojResolveAssemblyReference.cache
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\SearchPortal.Plugins.SearchEngines.Bing.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\SearchPortal.Plugins.SearchEngines.Bing.pdb
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\SearchPortal.Web.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\System.Web.Optimization.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\NuGet.Core.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\WebGrease.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\Antlr3.Runtime.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\bin\Debug\SearchPortal.Web.pdb
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\obj\Debug\SearchPortal.Plugins.SearchEngines.Bing.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.Bing\obj\Debug\SearchPortal.Plugins.SearchEngines.Bing.pdb

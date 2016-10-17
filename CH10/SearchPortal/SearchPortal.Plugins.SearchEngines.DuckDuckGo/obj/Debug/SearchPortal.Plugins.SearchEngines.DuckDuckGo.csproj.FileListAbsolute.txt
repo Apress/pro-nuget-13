@@ -1,0 +1,11 @@
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\obj\Debug\SearchPortal.Plugins.SearchEngines.DuckDuckGo.csprojResolveAssemblyReference.cache
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\SearchPortal.Plugins.SearchEngines.DuckDuckGo.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\SearchPortal.Plugins.SearchEngines.DuckDuckGo.pdb
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\SearchPortal.Web.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\System.Web.Optimization.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\NuGet.Core.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\WebGrease.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\Antlr3.Runtime.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\bin\Debug\SearchPortal.Web.pdb
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\obj\Debug\SearchPortal.Plugins.SearchEngines.DuckDuckGo.dll
+D:\Projects\Git\pronuget\v2\CH10\SearchPortal\SearchPortal.Plugins.SearchEngines.DuckDuckGo\obj\Debug\SearchPortal.Plugins.SearchEngines.DuckDuckGo.pdb

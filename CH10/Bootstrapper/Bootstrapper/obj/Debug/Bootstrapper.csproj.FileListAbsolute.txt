@@ -1,0 +1,7 @@
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper\bin\Debug\Bootstrapper.exe.config
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper\bin\Debug\Bootstrapper.exe
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper\bin\Debug\Bootstrapper.pdb
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper\bin\Debug\NuGet.Core.dll
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper\obj\Debug\Bootstrapper.csprojResolveAssemblyReference.cache
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper\obj\Debug\Bootstrapper.exe
+D:\Projects\Git\pronuget\v2\CH10\Bootstrapper\Bootstrapper\obj\Debug\Bootstrapper.pdb
